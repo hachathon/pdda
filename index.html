@@ -91,6 +91,7 @@
 				error: function (jqXHR, textStatus, errorThrown) {
 					console.log(errorThrown);
 					console.log('Error occured' + jqXHR.responseText);
+					$("#successMsg").show();
 				}
 			});
 
