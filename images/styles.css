@@ -1,0 +1,15 @@
+.lowes-logo{
+     float: left;
+     margin-left: 5px;
+     max-width: 94px;
+     margin-top: 9px;
+}
+body{
+     font-family: 'Roboto', sans-serif;
+     font-size: 11px;
+     line-height: 1.42857143;
+     color: #333;
+}
+.productDetails{
+     font-weight: bold;
+}
